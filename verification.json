@@ -1,0 +1,173 @@
+{
+  "passed": true,
+  "tests": 33,
+  "usedRealSiteUiLibrary": true,
+  "liveEnrollmentTested": false,
+  "reports": [
+    {
+      "test": "success",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "busy",
+      "submits": 3,
+      "passed": true
+    },
+    {
+      "test": "native",
+      "submits": 3,
+      "passed": true
+    },
+    {
+      "test": "zoom",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "wrong-teacher",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "teacher-substring",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "wrong-time",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "wrong-room",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "duplicates",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "unknown",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "cancel-confirm",
+      "submits": 0,
+      "passed": true
+    },
+    {
+      "test": "wrong-date-confirm",
+      "submits": 0,
+      "passed": true
+    },
+    {
+      "test": "negative-success",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "initial-unknown",
+      "submits": 0,
+      "passed": true
+    },
+    {
+      "test": "timeout-no-repeat",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "success-requires-selected-record",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "initial-busy-then-success",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "stop-during-retry",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "escape-stops",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "singleton-and-row-reorder",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "same-origin-iframe",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "already-selected-no-submit",
+      "submits": 0,
+      "passed": true
+    },
+    {
+      "test": "total-runtime-limit",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "packaged-bookmarklet-no-automatic-submit",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "switch-to-different-experiment",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "switch-same-name-new-date-confirmation",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "switch-to-other-start-time",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "switch-during-retry-stops-old-target",
+      "submits": 3,
+      "passed": true
+    },
+    {
+      "test": "pending-outcome-blocks-switch-and-reopen",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "empty-search-cannot-apply",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "picker-refresh-after-page-data-change",
+      "clicks": 0,
+      "passed": true
+    },
+    {
+      "test": "picker-same-origin-iframe",
+      "submits": 1,
+      "passed": true
+    },
+    {
+      "test": "new-version-stops-legacy-helper",
+      "clicks": 0,
+      "passed": true
+    }
+  ]
+}
